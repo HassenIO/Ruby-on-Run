@@ -1,24 +1,8 @@
-# README
+# Ruby on Run
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails 7 application that runs on GCP Cloud Run.
 
-Things you may want to cover:
+Expect complete pipeline with setup to Cloud SQL for PostgreSQL.
 
-* Ruby version
+> NOTA: This is a showcase project, do not use for prodution.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
